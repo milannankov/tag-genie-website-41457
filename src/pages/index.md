@@ -20,7 +20,7 @@ sections:
     title: Features
     subtitle: ''
     features:
-      - title: =Advanced Tag Operations
+      - title: Advanced Tag Operations
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
