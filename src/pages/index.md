@@ -74,7 +74,7 @@ sections:
     subtitle: 'Bulk remove, add, rename products tag of your Shopify store '
     actions:
       - label: Get Started
-        url: /signup
+        url: 'https://apps.shopify.com/tag-genie'
         style: primary
 meta_title: Stackbit Azimuth Theme
 meta_description: The preview of the Azimuth theme
