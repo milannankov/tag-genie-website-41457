@@ -57,7 +57,7 @@ sections:
         content: >-
           Brilliant - Super easy to use. It just saved me so much time
           organising my products. Highly recommended.
-      - author: Jane Roe
+      - author: Off-Road Bros
         avatar: images/review2.jpg
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
