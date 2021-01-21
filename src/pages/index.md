@@ -51,7 +51,7 @@ sections:
     type: section_reviews
     background: white
     title: Testimonials
-    subtitle: What people think about Tag Genie
+    subtitle: What people think about Tag Genie for shopify
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
