@@ -70,7 +70,7 @@ sections:
           Highly recommended!
   - section_id: call-to-action
     type: section_cta
-    title: 'Start managing '
+    title: Start managing Shopify tags
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
