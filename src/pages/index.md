@@ -11,7 +11,7 @@ sections:
       Create validation rules to get warnings about missing or misspelled tags.
       Automate tag operations to run at selected intervals.
     actions:
-      - label: Learn More
+      - label: Test On Your store
         url: /features
         style: primary
   - section_id: features
