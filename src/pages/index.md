@@ -63,7 +63,6 @@ sections:
           and is constantly improving the app based on suggestions and feedback.
           Looking forward to using the app long-term for our e-commerce site.
       - author: Master Airscrew
-        avatar: images/review3.jpg
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
