@@ -55,8 +55,8 @@ sections:
     reviews:
       - author: robinsonsofbawtry
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Brilliant - Super easy to use. It just saved me so much time
+          organising my products. Highly recommended.
       - author: Jane Roe
         avatar: images/review2.jpg
         content: >-
