@@ -6,9 +6,11 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Comprehensive Tag Management & Automation
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: >
+      With Tag Genie you can take control of the product tags in your store. You
+      can easily edit product tags in bulk by adding, removing, or renaming
+      product tags. Create validation rules to get warnings about missing or
+      misspelled tags. Automate tag operations to run at selected intervals.
     actions:
       - label: Learn More
         url: /features
