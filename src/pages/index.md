@@ -34,7 +34,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Previews
-        image: images/feature2.png
+        image: images/benefit-preview.png
         image_alt: App users welcoming a new member
         content: >
           Preview how tag operations will affect your product tags before
