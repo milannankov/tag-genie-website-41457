@@ -39,13 +39,7 @@ sections:
         content: >
           Preview how tag operations will affect your product tags before
           executing the operation.
-        actions:
-          - label: Learn More
-            url: ''
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: Cool Feature of Your Services
         image: images/feature3.png
         image_alt: App user profile preview
