@@ -7,10 +7,10 @@ sections:
     image_alt: App preview
     title: Comprehensive Tag Management & Automation
     content: >
-      With Tag Genie you can take control of the product tags in your store. You
-      can easily edit product tags in bulk by adding, removing, or renaming
-      product tags. Create validation rules to get warnings about missing or
-      misspelled tags. Automate tag operations to run at selected intervals.
+      With Tag Genie you can take control of the product tags in your store.
+      Easily edit product tags in bulk by adding, removing, or renaming tags.
+      Create validation rules to get warnings about missing or misspelled tags.
+      Automate tag operations to run at selected intervals.
     actions:
       - label: Learn More
         url: /features
