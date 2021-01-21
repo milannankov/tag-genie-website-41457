@@ -53,7 +53,7 @@ sections:
     title: Testimonials
     subtitle: What people think about Tag Genie for Shopify
     reviews:
-      - author: John Doe
+      - author: robinsonsofbawtry
         avatar: images/review1.jpg
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
