@@ -59,9 +59,9 @@ sections:
           organising my products. Highly recommended.
       - author: Off-Road Bros
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+          App does exactly what it says it can do. Developer is very responsive
+          and is constantly improving the app based on suggestions and feedback.
+          Looking forward to using the app long-term for our e-commerce site.
       - author: Richard Roe
         avatar: images/review3.jpg
         content: >-
