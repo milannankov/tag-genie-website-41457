@@ -21,7 +21,7 @@ sections:
     subtitle: ''
     features:
       - title: Advanced Tag Operations
-        image: images/feature1.png
+        image: images/benefit-operations.png
         image_alt: App preview on a phone and tablet
         content: >
           Add, remove, or rename product tags using powerful filters and
