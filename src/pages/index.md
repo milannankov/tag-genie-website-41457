@@ -12,7 +12,7 @@ sections:
       Automate tag operations to run at selected intervals.
     actions:
       - label: Test On Your store
-        url: /features
+        url: 'https://apps.shopify.com/tag-genie'
         style: primary
   - section_id: features
     type: section_features
