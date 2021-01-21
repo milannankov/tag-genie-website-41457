@@ -13,7 +13,7 @@
             },
             {
                 "label": "Install App",
-                "url": "/signup",
+                "url": "https://apps.shopify.com/tag-genie",
                 "style": "primary"
             }
         ]
