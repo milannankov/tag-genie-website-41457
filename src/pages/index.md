@@ -20,7 +20,7 @@ sections:
     title: Features
     subtitle: ''
     features:
-      - title: The Best Feature of Your Services
+      - title: =Advanced Tag Operations
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
