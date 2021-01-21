@@ -35,7 +35,7 @@ sections:
           executing the operation.
         actions: []
       - title: Direct Communication
-        image: images/feature3.png
+        image: images/benefit-dev.png
         image_alt: App user profile preview
         content: >
           Communicate directly with the developer and request support or
