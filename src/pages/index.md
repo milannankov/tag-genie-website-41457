@@ -64,8 +64,10 @@ sections:
           Looking forward to using the app long-term for our e-commerce site.
       - author: Master Airscrew
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Amazing app, finally I'm able to manage all our product tags in a
+          matter of minutes.
+
+          Highly recommended!
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
