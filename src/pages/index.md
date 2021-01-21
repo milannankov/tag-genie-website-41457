@@ -34,7 +34,7 @@ sections:
           Preview how tag operations will affect your product tags before
           executing the operation.
         actions: []
-      - title: Cool Feature of Your Services
+      - title: Direct Communication
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
