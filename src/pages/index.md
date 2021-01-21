@@ -40,13 +40,7 @@ sections:
         content: >
           Communicate directly with the developer and request support or
           features.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
   - section_id: reviews
     type: section_reviews
     background: white
