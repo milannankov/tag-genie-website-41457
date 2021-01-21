@@ -51,7 +51,7 @@ sections:
     type: section_reviews
     background: white
     title: Testimonials
-    subtitle: ''
+    subtitle: 'Why people '
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
