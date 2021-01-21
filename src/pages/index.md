@@ -3,7 +3,6 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
     image_alt: App preview
     title: Comprehensive Tag Management & Automation
     content: >
