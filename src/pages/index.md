@@ -26,13 +26,7 @@ sections:
         content: >
           Add, remove, or rename product tags using powerful filters and
           conditions. Apply bulk tag operations across thousands of products.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: Previews
         image: images/benefit-preview.png
         image_alt: App users welcoming a new member
