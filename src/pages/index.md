@@ -71,7 +71,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Start managing Shopify tags
-    subtitle: 'Bulk remove, add, rename products tag of your shopify '
+    subtitle: 'Bulk remove, add, rename products tag of your Shopify store '
     actions:
       - label: Get Started
         url: /signup
