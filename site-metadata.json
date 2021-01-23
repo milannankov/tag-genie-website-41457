@@ -13,11 +13,6 @@
                 "style": "link"
             },
             {
-                "label": "Install App",
-                "url": "https://apps.shopify.com/tag-genie",
-                "style": "primary"
-            },
-            {
                 "label": "lorem-ipsum",
                 "url": "lorem-ipsum",
                 "style": "link",
@@ -27,6 +22,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Install App",
+                "url": "https://apps.shopify.com/tag-genie",
+                "style": "primary"
             }
         ]
     },
