@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Bulk Tag
 subtitle: >-
   Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
   aliquet rhoncus sed, hendrerit vel odio.
