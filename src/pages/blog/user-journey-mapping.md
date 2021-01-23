@@ -1,7 +1,9 @@
 ---
 title: Bulk Tag Remove For Shopify
 subtitle: How to bulk remove Shopify product tags with just a couple of clicks
-excerpt: ''
+excerpt: >-
+  Here we are introducing the Bulk Tag Remove scenario which allows tags to be
+  removed with just a few clicks.
 author: src/data/authors/jane-doe.yaml
 date: '2021-01-23'
 thumb_image: images/10_thumb.jpg
