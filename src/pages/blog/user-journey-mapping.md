@@ -9,7 +9,7 @@ date: '2021-01-23'
 thumb_image: images/10_thumb.jpg
 thumb_image_alt: Business people in a meeting
 image: images/App - Remove Tag copy.png
-image_alt: Business people in a meeting
+image_alt: Bulk tag remove
 template: post
 ---
 
