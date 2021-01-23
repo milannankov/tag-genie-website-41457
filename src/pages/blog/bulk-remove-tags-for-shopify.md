@@ -16,4 +16,6 @@ Bulk removing tags is a common task that Shopify merchants might need to perform
 
 Here we are introducing the Bulk Tag Remove scenario which allows tags to be removed with just a few clicks.
 
-In order to use this scenario, click the "**Create Tag Operations**" button is Tag Genie and select the **Bulk Remove Tags** operations. On the next page, just click on the tags that you would like to remove, preview the tags changes, and confirm the operation to have the tags removed.
+In order to use this scenario, click the "**Create Tag Operations**" button is Tag Genie and select the **Bulk Remove Tags** operations. On the next page, just click on the tags that you would like to remove, preview the tags changes, and confirm the operation to have the tags removed.  
+
+`youtube: https://www.youtube.com/watch?v=22-y6Mo__gI`
