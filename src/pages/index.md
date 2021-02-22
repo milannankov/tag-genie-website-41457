@@ -73,4 +73,5 @@ sections:
 meta_title: Tag Genie - Comprehensive Product Tag Management & Automation for Shopify
 template: landing
 canonical_url: 'https://www.taggenieapp.com/'
+meta_description: 'Easily edit product tags in bulk by adding, removing, or renaming tags. '
 ---
