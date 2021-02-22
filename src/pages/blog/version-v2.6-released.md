@@ -1,5 +1,5 @@
 ---
-title: Bulk Tag Remove For Shopify
+title: Version 2.6 of Tag Genie is Live
 subtitle: How to bulk remove Shopify product tags with just a couple of clicks
 date: '2021-01-23'
 excerpt: >-
