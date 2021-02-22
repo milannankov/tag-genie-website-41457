@@ -70,7 +70,7 @@ sections:
       - label: Get Started
         url: 'https://apps.shopify.com/tag-genie'
         style: primary
-meta_title: Stackbit Azimuth Theme
+meta_title: Tag Genie - Comprehensive Product Tag Management & Automation for Shopify
 meta_description: The preview of the Azimuth theme
 template: landing
 canonical_url: 'https://www.taggenieapp.com/'
