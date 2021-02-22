@@ -1,6 +1,6 @@
 ---
 title: Version 2.6 of Tag Genie is Live
-subtitle: How to bulk remove Shopify product tags with just a couple of clicks
+subtitle: Improved Tag Operation and Preview
 date: '2021-01-23'
 excerpt: >-
   Here we are introducing the Bulk Tag Remove scenario which allows tags to be
