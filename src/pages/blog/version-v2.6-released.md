@@ -6,7 +6,7 @@ excerpt: >-
   Here we are introducing the Bulk Tag Remove scenario which allows tags to be
   removed with just a few clicks.
 image_alt: Improved Tag operations and Preview
-thumb_image_alt: Business people in a meeting
+thumb_image_alt: Improved Tag operations and Preview
 meta_title: lorem-ipsum
 meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
