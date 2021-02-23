@@ -14,7 +14,7 @@ no_index: false
 template: post
 author: src/data/authors/jane-doe.yaml
 thumb_image: images/App - Remove Tag copy.png
-image: images/App - Remove Tag copy.png
+image: images/version-v2.6-released.png
 ---
 Bulk removing tags is a common task that Shopify merchants might need to perform at some point. We are introducing a new type of product tag operations in Tag Genie called **Scenarios**. Scenarios are specifically built to enable our users to perform common tags as easy as possible.
 
