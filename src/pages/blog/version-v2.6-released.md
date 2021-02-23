@@ -1,6 +1,6 @@
 ---
 title: Version 2.6 of Tag Genie is Live
-subtitle: Improved Tag Operation and Preview
+subtitle: Improved Tag Operations and Preview
 date: '2021-01-23'
 excerpt: >-
   Here we are introducing the Bulk Tag Remove scenario which allows tags to be
