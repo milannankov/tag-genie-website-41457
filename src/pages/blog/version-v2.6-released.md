@@ -15,25 +15,25 @@ author: src/data/authors/jane-doe.yaml
 thumb_image: images/version-v2.6-released.png
 image: images/version-v2.6-released.png
 ---
-`Our latest major update brings improved tag operations and improved preview screen. Before we go into the details here is a quick summary of the changes introduced with version 2.6:`
+Our latest major update brings improved tag operations and improved preview screen. Before we go into the details here is a quick summary of the changes introduced with version 2.6:
 
-*   `Tag operations now support multiple tag actions`
+*   Tag operations now support multiple tag actions
 
-*   ` Improved UI of the Custom Tag Operations  `
+*   Improved UI of the Custom Tag Operations  
 
-*   `Improved Preview screen to provide more information of the tag changes`
+*   Improved Preview screen to provide more information of the tag changes
 
-*   `Introduced Product Type filter`
+*   Introduced Product Type filter
 
-## `Custom Tag Operation Improvements`
+## Custom Tag Operation Improvements
 
-` We have made multiple UI improvements on this screen that help new users to better understand how filter conditions and operations can be applied. The product conditions are now located at the top of the page in their own card. We have also improved the display of error messages so that it is clearer what needs to be fixed.  `
+ We have made multiple UI improvements on this screen that help new users to better understand how filter conditions and operations can be applied. The product conditions are now located at the top of the page in their own card. We have also improved the display of error messages so that it is clearer what needs to be fixed.  
 
-` Another addition is the ability to delete any of the conditions with a delete button on the right.  `
+ Another addition is the ability to delete any of the conditions with a delete button on the right.  
 
-`We have added a new filter condition to allow filtering on product type. With that, the number of available conditions is now undefined.`
+We have added a new filter condition to allow filtering on product type. With that, the number of available conditions is now undefined.
 
-``![](https://taggeniemain.blob.core.windows.net/images/version-v2.6-released-operation.png)
+![](https://taggeniemain.blob.core.windows.net/images/version-v2.6-released-operation.png)
 
 Another important improvement is the ability to add multiple tag actions - previously you could only add one of remove, add, or rename tag actions. With the latest update it is now possible to add multiple product tags with a single operation.
 
