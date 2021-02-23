@@ -9,7 +9,6 @@ image_alt: Improved Tag operations and Preview
 thumb_image_alt: Improved Tag operations and Preview
 meta_title: Improved product tag operations for Shopify with Tag Genie v2.6
 meta_description: Improved product tag operations for Shopify with Tag Genie v2.6
-canonical_url: lorem-ipsum
 no_index: false
 template: post
 author: src/data/authors/jane-doe.yaml
