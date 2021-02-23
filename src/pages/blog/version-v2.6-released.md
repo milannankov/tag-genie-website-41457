@@ -7,7 +7,7 @@ excerpt: >-
   removed with just a few clicks.
 image_alt: Improved Tag operations and Preview
 thumb_image_alt: Improved Tag operations and Preview
-meta_title: lorem-ipsum
+meta_title: 'Improved product tag '
 meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
 no_index: false
