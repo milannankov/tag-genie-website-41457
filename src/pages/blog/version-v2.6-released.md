@@ -5,7 +5,7 @@ date: '2021-01-23'
 excerpt: >-
   Here we are introducing the Bulk Tag Remove scenario which allows tags to be
   removed with just a few clicks.
-image_alt: Bulk tag remove
+image_alt: Improved Tag operations and Preview
 thumb_image_alt: Business people in a meeting
 meta_title: lorem-ipsum
 meta_description: lorem-ipsum
