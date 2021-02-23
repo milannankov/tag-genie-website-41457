@@ -13,7 +13,7 @@ canonical_url: lorem-ipsum
 no_index: false
 template: post
 author: src/data/authors/jane-doe.yaml
-thumb_image: images/App - Remove Tag copy.png
+thumb_image: images/version-v2.6-released.png
 image: images/version-v2.6-released.png
 ---
 `Our latest major update brings improved tag operations and improved preview screen. Before we go into the details here is a quick summary of the changes introduced with version 2.6:`
