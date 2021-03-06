@@ -41,6 +41,11 @@ sections:
           Communicate directly with the developer and request support or
           features.
         actions: []
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    type: section_posts
   - section_id: reviews
     type: section_reviews
     background: white
@@ -70,11 +75,6 @@ sections:
       - label: Get Started
         url: 'https://apps.shopify.com/tag-genie'
         style: primary
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: gray
-    type: section_posts
 meta_title: Tag Genie - Comprehensive Product Tag Management & Automation for Shopify
 template: landing
 canonical_url: 'https://www.taggenieapp.com/'
