@@ -41,11 +41,6 @@ sections:
           Communicate directly with the developer and request support or
           features.
         actions: []
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: gray
-    type: section_posts
   - section_id: reviews
     type: section_reviews
     background: white
@@ -67,6 +62,11 @@ sections:
           matter of minutes.
 
           Highly recommended!
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    type: section_posts
   - section_id: call-to-action
     type: section_cta
     title: Start managing Shopify tags
