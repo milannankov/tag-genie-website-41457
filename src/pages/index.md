@@ -64,7 +64,7 @@ sections:
           Highly recommended!
   - section_id: news-and-updates
     title: News & Updates
-    subtitle: Latest news & updated from Tag Genie
+    subtitle: Latest news & updated from Tag Genie for Shopify
     background: gray
     type: section_posts
   - section_id: call-to-action
