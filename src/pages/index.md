@@ -62,7 +62,7 @@ sections:
           matter of minutes.
 
           Highly recommended!
-  - section_id: lorem-ipsum
+  - section_id: news-and-updates
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
