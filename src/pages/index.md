@@ -64,7 +64,7 @@ sections:
           Highly recommended!
   - section_id: news-and-updates
     title: News & Updates
-    subtitle: lorem-ipsum
+    subtitle: 'Latest news '
     background: gray
     type: section_posts
   - section_id: call-to-action
