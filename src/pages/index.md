@@ -63,7 +63,7 @@ sections:
 
           Highly recommended!
   - section_id: news-and-updates
-    title: lorem-ipsum
+    title: News & Updates
     subtitle: lorem-ipsum
     background: gray
     type: section_posts
