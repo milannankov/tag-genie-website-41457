@@ -5,6 +5,7 @@ excerpt: >-
   Imagine that you have 20 discount tags like '10% Off', '20% Off', etc and your goal is to add the prefix "Sale" to all of them. You can certainly create 20 operations to rename each individual tag but is there a more efficient way? There certainly is with Tag Genie and what we call Tag Templates. 
 author: src/data/authors/jane-doe.yaml
 date: '2021-04-10'
+canonical_url: 'https://www.taggenieapp.com/blog/prefix-product-tags-shopify/'
 thumb_image: https://taggenie.azureedge.net/images/blog-prefix-tags-cover.png
 thumb_image_alt: Prefix tags tuhumbnail image
 image: https://taggenie.azureedge.net/images/blog-prefix-tags-cover.png

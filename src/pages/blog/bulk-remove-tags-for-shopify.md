@@ -6,6 +6,7 @@ excerpt: >-
   removed with just a few clicks.
 author: src/data/authors/jane-doe.yaml
 date: '2021-01-23'
+canonical_url: 'https://www.taggenieapp.com/blog/bulk-remove-tags-for-shopify/'
 thumb_image: images/App - Remove Tag copy.png
 thumb_image_alt: Business people in a meeting
 image: images/App - Remove Tag copy.png

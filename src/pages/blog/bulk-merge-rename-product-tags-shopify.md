@@ -5,6 +5,7 @@ excerpt: >-
   Another common tasks that store owner typically do on a regular basis is rename or combine product tags. You might need to rename tags that are misspelled or combine certain categories of tags into a new one. For example, you might have a Sale tag that is misspelled on multiple items like 'SALE', 'Sail' or some other variations.
 author: src/data/authors/jane-doe.yaml
 date: '2021-04-06'
+canonical_url: 'https://www.taggenieapp.com/blog/bulk-merge-rename-product-tags-shopify/'
 thumb_image: images/blog-merge-rename-cover.png
 thumb_image_alt: Merge/Rename cover
 image: images/blog-merge-rename-cover.png

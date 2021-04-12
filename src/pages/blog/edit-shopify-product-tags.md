@@ -5,6 +5,7 @@ excerpt: >-
   We demonstrates the different ways you can edit product tags on Shopify using Tag Genie 
 author: src/data/authors/jane-doe.yaml
 date: '2021-04-11'
+canonical_url: 'https://www.taggenieapp.com/blog/edit-shopify-product-tags/'
 thumb_image: https://taggenie.azureedge.net/images/blog-edit-tags-cover.png
 thumb_image_alt: Edit tags tuhumbnail image
 image: https://taggenie.azureedge.net/images/blog-edit-tags-cover.png
