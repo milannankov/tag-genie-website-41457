@@ -13,7 +13,7 @@ image_alt: Prefix tags cover image
 template: post
 ---
 
-This time cover more advanced functionaly of Tag Genie using our most powerfull tool - Custom Tag Operation. How can you prefix product tags on Shopify? While that might sound like a trivial task it gets more complicated if you try to prefix different tags using the same prefix. 
+This time cover more advanced functionality of Tag Genie using our most powerful tool - Custom Tag Operation. How can you prefix product tags on Shopify? While that might sound like a trivial task it gets more complicated if you try to prefix different tags using the same prefix. 
 
 Imagine that you have 20 discount tags like '10% Off', '20% Off', etc and your goal is to add the prefix "Sale" to all of them. You can certainly create 20 operations to rename each individual tag but is there a more efficient way? There certainly is with Tag Genie and what we call **Tag Templates**. 
 

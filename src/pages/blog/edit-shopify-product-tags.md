@@ -13,7 +13,7 @@ image_alt: Edit tags cover image
 template: post
 ---
 
-In this article we will cover the various ways to edit product tag in your Shopify store using Tag Genie and what our produt has to offer. We strongly believe that Tag Genie is the best product tag management app in the Shopify ecosystem and we are proud to allow our client to manage their tags more efficiently. 
+In this article we will cover the various ways to edit product tag in your Shopify store using Tag Genie and what our apps has to offer. We strongly believe that Tag Genie is the best product tag management app in the Shopify ecosystem and we are proud to allow our client to manage their tags more efficiently. 
 
 The most powerful tool in Tag Genie is what we call **Custom Tag Operation**. This is the tools that gives access to all functionality of the app but at the same time it is the most complex one and it might need some getting used to. 
 
