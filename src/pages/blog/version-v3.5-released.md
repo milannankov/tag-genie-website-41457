@@ -40,6 +40,8 @@ Turns out that some of our clients have a requirement to make tag changes at a s
 
 Last but not least, is the ability to click on a tag on the dashboard and take a look at all products that are tagged with a particular tag on your Shopify store. This feature was requested multiple times and it is finally here.
 
+![](https://taggenie.azureedge.net/images/version-v35-released-tagged-products.png)
+
 With this update we are again pushing the boundaries of product tag management and product  tag automation for Shopify. We want to thank all clients who are supporting us and are providing invaluable feedback to make Tag Genie the best tag management app for Shopify which helps you bulk remove, add, rename product tags. 
 
 Say tuned for more updates. 
